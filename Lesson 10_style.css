@@ -1,0 +1,38 @@
+
+body{
+	background-color: #ccc;
+	background-image: url("BTCMD.jpeg");
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-size: 100%;
+}
+
+
+h1{
+	color: red;
+	text-align: center;
+}
+
+P{
+	color: blue;
+	text-align: left;
+	
+
+}
+#thunhat{
+	color: purple;
+	text-align: justify;
+	border-style: dotted;
+	border-color: grey;
+	border-size: 10px;
+}
+
+#thuhai{
+	color: purple;
+	text-align: right;
+	border: dotted 5px brown;
+}
+span{
+	color: brown;
+	
+}
